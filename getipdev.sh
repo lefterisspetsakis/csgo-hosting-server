@@ -13,7 +13,8 @@ do
 		echo "File exists"
 		#get ip
 		IP="`wget -q -O - checkip.dyndns.org|sed -e 's/.*Current IP Address: //' -e 's/<.*$//'`"
-		contents=$(cat myip)
+		contents=$(cat "$FILENAME")
+		echo "IP is $IP"
 		#if ip is different from stored ip, send email
 		if [ "$IP" != "$contents" ]; then
 			echo "sending email..."
@@ -33,16 +34,8 @@ do
 		wget -q -O - checkip.dyndns.org|sed -e 's/.*Current IP Address: //' -e 's/<.*$//' > ~/myip
 		echo "Done"
 	fi
-	
-	#date +"%m/%d/%Y %H:%M:%S $HOSTNAME"
-	#echo "sending email..."
-	#date +"%m/%d/%Y %H:%M:%S $HOSTNAME"
-	#echo "sent"
-	#ssmtp left.plan@gmail.com < myip
-	#ssmtp nimrodvanir97@gmail.com < myip
 
 	#TODO: test sleep time with 30 seconds (so that this script
 	#	checks for an ip change every 30 seconds and notifies
 	#	as necessary)
-	sleep 2
 done
