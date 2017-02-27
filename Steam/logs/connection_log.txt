@@ -1,0 +1,15 @@
+
+
+[2017-02-25 01:20:10] Log session started
+[2017-02-25 01:20:10] [0,0] SetSteamID( [U:1:0] )
+[2017-02-25 01:20:10] [0,0] SetSteamID( [U:1:0] )
+[2017-02-25 01:20:10] [0,0] SetSteamID( [a:1:0] )
+[2017-02-25 01:20:10] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2017-02-25 01:20:10] CCMInterface::YieldingConnect -- got 100 CMs from ISteamDirectory/GetCMList.
+[2017-02-25 01:20:10] [1,4] Connect() starting connection (eNetQOSLevelHigh, 162.254.193.47:27021, UDP)
+[2017-02-25 01:20:11] [1,4] ConnectionCompleted() (162.254.193.47:27018, UDP)
+[2017-02-25 01:20:11] [1,4] RecvMsgClientLogOnResponse() : [a:1:1590211638] 'OK'
+[2017-02-25 01:33:56] [3,4] ResetVoiceRecording() (was recording: 0) (last get voice time: 826 seconds ago)
+[2017-02-25 01:33:56] [3,4] LogOff()
+[2017-02-25 01:33:56] [2,4] AsyncDisconnect()
+[2017-02-25 01:33:56] [2,4] Log session ended

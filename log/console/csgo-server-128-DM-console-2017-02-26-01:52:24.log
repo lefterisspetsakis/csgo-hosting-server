@@ -1,0 +1,790 @@
+#
+#Console initialized.
+Setting breakpad minidump AppID = 740
+#Using breakpad minidump system 740/13568.447.DC
+Using breakpad crash handler
+Forcing breakpad minidump interfaces to load
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+#Loading VPK file hashes for pure server operation.
+#Loading VPK file hashes for pure server operation.
+#Loading VPK file hashes for pure server operation.
+#Game.dll loaded for "Counter-Strike: Global Offensive"
+#CGameEventManager::AddListener: event 'server_pre_shutdown' unknown.
+#CGameEventManager::AddListener: event 'game_newmap' unknown.
+#CGameEventManager::AddListener: event 'finale_start' unknown.
+#CGameEventManager::AddListener: event 'round_start' unknown.
+#CGameEventManager::AddListener: event 'round_end' unknown.
+#CGameEventManager::AddListener: event 'difficulty_changed' unknown.
+#CGameEventManager::AddListener: event 'player_connect' unknown.
+#CGameEventManager::AddListener: event 'player_disconnect' unknown.
+#GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+#GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/cooperative).
+#GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/coopmission).
+Failed to load gamerulescvars.txt, game rules cvars might not be reported to management tools.
+Server is hibernating
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.so.
+Particles: Missing 'particles/money_fx.pcf'
+No web api auth key specified - workshop downloads will be disabled.
+maxplayers set to 64
+ConVarRef cl_embedded_stream_video_playing doesn't point to an existing ConVar
+Setting mapgroup to 'mg_active'
+Usage: host_workshop_collection <fileid>
+Usage: workshop_start_map <fileid>
+---- Host_NewGame ----
+ConVarRef r_staticlight_streams doesn't point to an existing ConVar
+Host_NewGame on map de_mirage
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/cooperative).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/coopmission).
+ConVarRef room_type doesn't point to an existing ConVar
+bot_autodifficulty_threshold_high - 5.0
+bot_autodifficulty_threshold_low - -2.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+sv_auto_adjust_bot_difficulty - 1
+sv_bots_get_easier_each_win - 0
+sv_bots_force_rebuy_every_round - 0
+sv_bots_get_harder_after_each_wave - 0
+mp_playercashawards - 1
+cash_player_bomb_defused - 300
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+cash_player_interact_with_hostage - 150
+cash_player_killed_enemy_default - 300
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -300
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+cash_team_elimination_bomb_map - 3250
+cash_team_elimination_hostage_map_t - 1000
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+cash_team_hostage_interaction - 500
+cash_team_loser_bonus - 1400
+cash_team_loser_bonus_consecutive_rounds - 500
+cash_team_planted_bomb_but_defused - 800
+cash_team_rescued_hostage - 0
+cash_team_terrorist_win_bomb - 3500
+cash_team_win_by_defusing_bomb - 3250
+cash_team_win_by_hostage_rescue - 3500
+cash_team_win_by_time_running_out_bomb - 3250
+cash_team_win_by_time_running_out_hostage - 3250
+cash_team_survive_guardian_wave - 1000
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_buy_anywhere - 0
+mp_buy_during_immunity - 0
+mp_startmoney - 800
+mp_maxmoney - 16000
+sv_buy_status_override - -1
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+mp_weapons_allow_typecount - 5
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+mp_maxrounds - 0
+mp_roundtime - 5
+mp_roundtime_defuse - 0
+mp_roundtime_hostage - 0
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmuptime_all_players_connected - 60
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+sv_alltalk - 0
+sv_auto_full_alltalk_during_warmup_half_end - 1
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 3.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_randomspawn_dist - 0
+mp_radar_showall - 0
+mp_force_assign_teams - 0
+sv_gravity - 800
+sv_accelerate - 5.5
+sv_stopspeed - 80
+sv_airaccelerate - 12
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 5.2
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+sv_bot_buy_grenade_chance - 33
+sv_bot_buy_smoke_weight - 1
+sv_bot_buy_flash_weight - 1
+sv_bot_buy_decoy_weight - 1
+sv_bot_buy_molotov_weight - 1
+sv_bot_buy_hegrenade_weight - 6
+sv_guardian_min_wave_for_heavy - 0
+sv_guardian_max_wave_for_heavy - 0
+sv_guardian_heavy_count - 0
+sv_guardian_heavy_all - 0
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+mp_coop_force_join_ct - 0
+bot_allow_rogues - 1
+mp_guardian_special_kills_needed - 10
+mp_guardian_special_weapon_needed - awp
+mp_guardian_player_dist_min - 1300
+mp_guardian_player_dist_max - 2000
+mp_guardian_target_site - -1
+mp_hostages_spawn_force_positions - 
+mp_hostages_spawn_same_every_round - 1
+mp_guardian_bot_money_per_wave - 800
+sv_disable_show_team_select_menu - 0
+mp_hostages_max - 2
+spec_replay_enable - 0
+mp_round_restart_delay - 7.0
+mp_coopmission_bot_difficulty_offset - 0
+sv_duplicate_playernames_ok - 0
+mp_anyone_can_pickup_c4 - 0
+mp_c4_cannot_be_defused - 0
+mp_c4timer - 40
+mp_coopmission_mission_number - 0
+weapon_reticle_knife_show - 0
+mp_death_drop_c4 - 1
+Executing dedicated server config file
+Unknown command "sv_maxcmdrate"
+Server logging enabled.
+Server logging data to file logs/L192_168_000_036_27015_201702260146_000.log
+L 02/26/2017 - 01:46:19: Log file started (file "logs/L192_168_000_036_27015_201702260146_000.log") (game "/home/csadmin/serverfiles/csgo") (version "6661")
+Writing cfg/banned_user.cfg.
+Writing cfg/banned_ip.cfg.
+L 02/26/2017 - 01:46:19: server_cvar: "cash_player_bomb_defused" "200"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_player_bomb_planted" "200"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_player_interact_with_hostage" "300"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_player_killed_enemy_default" "200"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_player_killed_enemy_factor" "0.5"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_elimination_bomb_map" "2700"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_elimination_hostage_map_t" "2000"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_elimination_hostage_map_ct" "2300"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_loser_bonus" "2400"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "0"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_planted_bomb_but_defused" "200"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_terrorist_win_bomb" "2700"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_win_by_defusing_bomb" "2700"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_win_by_hostage_rescue" "3000"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_win_by_time_running_out_hostage" "2000"
+L 02/26/2017 - 01:46:19: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_freezetime" "5"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_friendlyfire" "1"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_maxrounds" "15"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_roundtime" "3"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_roundtime_hostage" "2"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_roundtime_defuse" "2.25"
+L 02/26/2017 - 01:46:19: server_cvar: "mp_timelimit" "0"
+Stopping 0 worker threads
+Starting 1 worker threads
+1 threads. 732,832 ticks
+exec: couldn't exec gamemode_casual_server.cfg
+PrecacheScriptSound 'Player.DamageHelmetOtherFar' failed, no such sound script entry
+Commentary: Could not find commentary data file 'maps/de_mirage_commentary.txt'. 
+Initializing Steam libraries for secure Internet server
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 730
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Setting breakpad minidump AppID = 740
+Logging into Steam gameserver account with logon token 'C16CB8F8xxxxxxxxxxxxxxxxxxxxxxxx'
+Connection to Steam servers successful.
+   Public IP is 99.246.98.92.
+Assigned persistent gameserver Steam ID [G:1:1020835].
+VAC secure mode is activated.
+GC Connection established for server version 447, instance idx 1
+-> Reservation cookie b92818e8d0060b4c:  reason [R] Connect from 99.246.98.92:27005
+L 02/26/2017 - 01:46:30: server_cvar: "nextlevel" "de_mirage"
+---- Host_Changelevel ----
+*** Map Load: de_mirage: Map Group mg_activeL 02/26/2017 - 01:46:30: Log file closed
+Server logging data to file logs/L192_168_000_036_27015_201702260146_001.log
+L 02/26/2017 - 01:46:30: Log file started (file "logs/L192_168_000_036_27015_201702260146_001.log") (game "/home/csadmin/serverfiles/csgo") (version "6661")
+L 02/26/2017 - 01:46:30: Loading map "de_mirage"
+L 02/26/2017 - 01:46:30: server cvars start
+L 02/26/2017 - 01:46:30: "cash_player_killed_teammate" = "-300"
+L 02/26/2017 - 01:46:30: "sv_maxspeed" = "320"
+L 02/26/2017 - 01:46:30: "cash_player_respawn_amount" = "0"
+L 02/26/2017 - 01:46:30: "cash_team_rescued_hostage" = "0"
+L 02/26/2017 - 01:46:30: "cash_team_win_by_defusing_bomb" = "2700"
+L 02/26/2017 - 01:46:30: "sv_rollangle" = "0"
+L 02/26/2017 - 01:46:30: "r_AirboatViewZHeight" = "0.0"
+L 02/26/2017 - 01:46:30: "sv_cheats" = "0"
+L 02/26/2017 - 01:46:30: "r_VehicleViewDampen" = "1"
+L 02/26/2017 - 01:46:30: "mp_allowNPCs" = "1"
+L 02/26/2017 - 01:46:30: "mp_tournament" = "0"
+L 02/26/2017 - 01:46:30: "sv_spec_hear" = "1"
+L 02/26/2017 - 01:46:30: "cash_player_interact_with_hostage" = "300"
+L 02/26/2017 - 01:46:30: "mp_flashlight" = "0"
+L 02/26/2017 - 01:46:30: "mp_maxrounds" = "15"
+L 02/26/2017 - 01:46:30: "sv_tags" = ""
+L 02/26/2017 - 01:46:30: "sv_stepsize" = "18"
+L 02/26/2017 - 01:46:30: "mp_teamlist" = "hgrunt;scientist"
+L 02/26/2017 - 01:46:30: "sv_alltalk" = "0"
+L 02/26/2017 - 01:46:30: "mp_footsteps" = "1"
+L 02/26/2017 - 01:46:30: "sv_noclipaccelerate" = "5"
+L 02/26/2017 - 01:46:30: "sv_accelerate_debug_speed" = "0"
+L 02/26/2017 - 01:46:30: "sv_wateraccelerate" = "10"
+L 02/26/2017 - 01:46:30: "mp_autocrosshair" = "1"
+L 02/26/2017 - 01:46:30: "mp_stalemate_enable" = "0"
+L 02/26/2017 - 01:46:30: "cash_team_elimination_bomb_map" = "2700"
+L 02/26/2017 - 01:46:30: "cash_player_get_killed" = "0"
+L 02/26/2017 - 01:46:30: "mp_roundtime_defuse" = "2.25"
+L 02/26/2017 - 01:46:30: "sv_autobuyammo" = "0"
+L 02/26/2017 - 01:46:30: "sv_rollspeed" = "200"
+L 02/26/2017 - 01:46:30: "sv_airaccelerate" = "12"
+L 02/26/2017 - 01:46:30: "mp_teams_unbalance_limit" = "1"
+L 02/26/2017 - 01:46:30: "mp_timelimit" = "0"
+L 02/26/2017 - 01:46:30: "cash_team_loser_bonus" = "2400"
+L 02/26/2017 - 01:46:30: "sv_deadtalk" = "0"
+L 02/26/2017 - 01:46:30: "cash_player_rescued_hostage" = "1000"
+L 02/26/2017 - 01:46:30: "sv_waterfriction" = "1"
+L 02/26/2017 - 01:46:30: "sv_competitive_official_5v5" = "0"
+L 02/26/2017 - 01:46:30: "sv_steamgroup" = ""
+L 02/26/2017 - 01:46:30: "cash_player_killed_enemy_default" = "200"
+L 02/26/2017 - 01:46:30: "coop" = "0"
+L 02/26/2017 - 01:46:30: "mp_respawnwavetime" = "10.0"
+L 02/26/2017 - 01:46:30: "tv_enable1" = "0"
+L 02/26/2017 - 01:46:30: "nextlevel" = "de_mirage"
+L 02/26/2017 - 01:46:30: "sv_stopspeed" = "80"
+L 02/26/2017 - 01:46:30: "sv_specaccelerate" = "5"
+L 02/26/2017 - 01:46:30: "deathmatch" = "1"
+L 02/26/2017 - 01:46:30: "tv_enable" = "0"
+L 02/26/2017 - 01:46:30: "mp_falldamage" = "0"
+L 02/26/2017 - 01:46:30: "mp_teammates_are_enemies" = "0"
+L 02/26/2017 - 01:46:30: "mp_roundtime_hostage" = "2"
+L 02/26/2017 - 01:46:30: "mp_freezetime" = "5"
+L 02/26/2017 - 01:46:30: "sv_accelerate_use_weapon_speed" = "1"
+L 02/26/2017 - 01:46:30: "sv_voiceenable" = "1"
+L 02/26/2017 - 01:46:30: "sv_bounce" = "0"
+L 02/26/2017 - 01:46:30: "mp_disable_respawn_times" = "0"
+L 02/26/2017 - 01:46:30: "r_AirboatViewDampenFreq" = "7.0"
+L 02/26/2017 - 01:46:30: "mp_weaponstay" = "0"
+L 02/26/2017 - 01:46:30: "mp_hostagepenalty" = "10"
+L 02/26/2017 - 01:46:30: "tv_advertise_watchable" = "0"
+L 02/26/2017 - 01:46:30: "mp_friendlyfire" = "1"
+L 02/26/2017 - 01:46:30: "sv_noclipspeed" = "5"
+L 02/26/2017 - 01:46:30: "cash_team_hostage_interaction" = "500"
+L 02/26/2017 - 01:46:30: "sv_allchat" = "1"
+L 02/26/2017 - 01:46:30: "cash_team_win_by_time_running_out_bomb" = "2700"
+L 02/26/2017 - 01:46:30: "mp_buy_during_immunity" = "0"
+L 02/26/2017 - 01:46:30: "cash_player_killed_enemy_factor" = "0.5"
+L 02/26/2017 - 01:46:30: "r_JeepViewDampenDamp" = "1.0"
+L 02/26/2017 - 01:46:30: "mp_c4timer" = "40"
+L 02/26/2017 - 01:46:30: "r_AirboatViewDampenDamp" = "1.0"
+L 02/26/2017 - 01:46:30: "sv_competitive_minspec" = "1"
+L 02/26/2017 - 01:46:30: "sv_max_allowed_net_graph" = "1"
+L 02/26/2017 - 01:46:30: "mp_stalemate_at_timelimit" = "0"
+L 02/26/2017 - 01:46:30: "sv_footsteps" = "1"
+L 02/26/2017 - 01:46:30: "mp_limitteams" = "2"
+L 02/26/2017 - 01:46:30: "sv_vote_issue_kick_allowed" = "1"
+L 02/26/2017 - 01:46:30: "cash_team_survive_guardian_wave" = "1000"
+L 02/26/2017 - 01:46:30: "tv_relaypassword" = ""
+L 02/26/2017 - 01:46:30: "mp_teamplay" = "0"
+L 02/26/2017 - 01:46:30: "cash_team_terrorist_win_bomb" = "2700"
+L 02/26/2017 - 01:46:30: "cash_team_elimination_hostage_map_t" = "2000"
+L 02/26/2017 - 01:46:30: "r_JeepViewDampenFreq" = "7.0"
+L 02/26/2017 - 01:46:30: "sv_specnoclip" = "1"
+L 02/26/2017 - 01:46:30: "sv_friction" = "5.2"
+L 02/26/2017 - 01:46:30: "cash_team_win_by_time_running_out_hostage" = "2000"
+L 02/26/2017 - 01:46:30: "cash_player_bomb_planted" = "200"
+L 02/26/2017 - 01:46:30: "mp_autoteambalance" = "1"
+L 02/26/2017 - 01:46:30: "sv_contact" = ""
+L 02/26/2017 - 01:46:30: "sv_vote_kick_ban_duration" = "15"
+L 02/26/2017 - 01:46:30: "cash_player_bomb_defused" = "200"
+L 02/26/2017 - 01:46:30: "mp_roundtime" = "3"
+L 02/26/2017 - 01:46:30: "sv_kick_ban_duration" = "15"
+L 02/26/2017 - 01:46:30: "cash_team_planted_bomb_but_defused" = "200"
+L 02/26/2017 - 01:46:30: "cash_player_killed_hostage" = "-1000"
+L 02/26/2017 - 01:46:30: "sv_vote_issue_loadbackup_allowed" = "1"
+L 02/26/2017 - 01:46:30: "mp_fraglimit" = "0"
+L 02/26/2017 - 01:46:30: "mp_forcerespawn" = "1"
+L 02/26/2017 - 01:46:30: "mp_winlimit" = "0"
+L 02/26/2017 - 01:46:30: "sv_accelerate" = "5.5"
+L 02/26/2017 - 01:46:30: "mp_buy_anywhere" = "0"
+L 02/26/2017 - 01:46:30: "sv_gravity" = "800"
+L 02/26/2017 - 01:46:30: "sv_password" = ""
+L 02/26/2017 - 01:46:30: "cash_team_elimination_hostage_map_ct" = "2300"
+L 02/26/2017 - 01:46:30: "cash_team_win_by_hostage_rescue" = "3000"
+L 02/26/2017 - 01:46:30: "r_JeepViewZHeight" = "10.0"
+L 02/26/2017 - 01:46:30: "cash_team_loser_bonus_consecutive_rounds" = "0"
+L 02/26/2017 - 01:46:30: "cash_player_damage_hostage" = "-30"
+L 02/26/2017 - 01:46:30: "cash_team_hostage_alive" = "0"
+L 02/26/2017 - 01:46:30: "tv_password" = ""
+L 02/26/2017 - 01:46:30: "sv_specspeed" = "3"
+L 02/26/2017 - 01:46:30: server cvars end
+ConVarRef r_staticlight_streams doesn't point to an existing ConVar
+L 02/26/2017 - 01:46:30: Started map "de_mirage" (CRC "-1611770114")
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/cooperative).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/coopmission).
+ConVarRef room_type doesn't point to an existing ConVar
+bot_autodifficulty_threshold_high - 5.0
+bot_autodifficulty_threshold_low - -2.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+sv_auto_adjust_bot_difficulty - 1
+sv_bots_get_easier_each_win - 0
+sv_bots_force_rebuy_every_round - 0
+sv_bots_get_harder_after_each_wave - 0
+mp_playercashawards - 1
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_bomb_defused" "300"
+cash_player_bomb_defused - 300
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_bomb_planted" "300"
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_interact_with_hostage" "150"
+cash_player_interact_with_hostage - 150
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_killed_enemy_default" "300"
+cash_player_killed_enemy_default - 300
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_killed_enemy_factor" "1"
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -300
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_bomb_map" "3250"
+cash_team_elimination_bomb_map - 3250
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+cash_team_elimination_hostage_map_t - 1000
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+cash_team_hostage_interaction - 500
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_loser_bonus" "1400"
+cash_team_loser_bonus - 1400
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "500"
+cash_team_loser_bonus_consecutive_rounds - 500
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_planted_bomb_but_defused" "800"
+cash_team_planted_bomb_but_defused - 800
+cash_team_rescued_hostage - 0
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_terrorist_win_bomb" "3500"
+cash_team_terrorist_win_bomb - 3500
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+cash_team_win_by_defusing_bomb - 3250
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+cash_team_win_by_hostage_rescue - 3500
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_time_running_out_bomb" "3250"
+cash_team_win_by_time_running_out_bomb - 3250
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_time_running_out_hostage" "3250"
+cash_team_win_by_time_running_out_hostage - 3250
+cash_team_survive_guardian_wave - 1000
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_buy_anywhere - 0
+mp_buy_during_immunity - 0
+mp_startmoney - 800
+mp_maxmoney - 16000
+sv_buy_status_override - -1
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+mp_weapons_allow_typecount - 5
+L 02/26/2017 - 01:46:30: server_cvar: "mp_freezetime" "6"
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+L 02/26/2017 - 01:46:30: server_cvar: "mp_maxrounds" "0"
+mp_maxrounds - 0
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime" "5"
+mp_roundtime - 5
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime_defuse" "0"
+mp_roundtime_defuse - 0
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime_hostage" "0"
+mp_roundtime_hostage - 0
+L 02/26/2017 - 01:46:30: server_cvar: "mp_timelimit" "5"
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmuptime_all_players_connected - 60
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+sv_alltalk - 0
+sv_auto_full_alltalk_during_warmup_half_end - 1
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+L 02/26/2017 - 01:46:30: server_cvar: "mp_friendlyfire" "0"
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 3.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_randomspawn_dist - 0
+mp_radar_showall - 0
+mp_force_assign_teams - 0
+sv_gravity - 800
+sv_accelerate - 5.5
+sv_stopspeed - 80
+sv_airaccelerate - 12
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 5.2
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+sv_bot_buy_grenade_chance - 33
+sv_bot_buy_smoke_weight - 1
+sv_bot_buy_flash_weight - 1
+sv_bot_buy_decoy_weight - 1
+sv_bot_buy_molotov_weight - 1
+sv_bot_buy_hegrenade_weight - 6
+sv_guardian_min_wave_for_heavy - 0
+sv_guardian_max_wave_for_heavy - 0
+sv_guardian_heavy_count - 0
+sv_guardian_heavy_all - 0
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+mp_coop_force_join_ct - 0
+bot_allow_rogues - 1
+mp_guardian_special_kills_needed - 10
+mp_guardian_special_weapon_needed - awp
+mp_guardian_player_dist_min - 1300
+mp_guardian_player_dist_max - 2000
+mp_guardian_target_site - -1
+mp_hostages_spawn_force_positions - 
+mp_hostages_spawn_same_every_round - 1
+mp_guardian_bot_money_per_wave - 800
+sv_disable_show_team_select_menu - 0
+mp_hostages_max - 2
+spec_replay_enable - 0
+mp_round_restart_delay - 7.0
+mp_coopmission_bot_difficulty_offset - 0
+sv_duplicate_playernames_ok - 0
+mp_anyone_can_pickup_c4 - 0
+mp_c4_cannot_be_defused - 0
+mp_c4timer - 40
+mp_coopmission_mission_number - 0
+weapon_reticle_knife_show - 0
+mp_death_drop_c4 - 1
+Executing dedicated server config file
+L 02/26/2017 - 01:46:30: server_cvar: "nextlevel" ""
+Unknown command "sv_maxcmdrate"
+Server logging enabled.
+L 02/26/2017 - 01:46:30: Log file closed
+Server logging data to file logs/L192_168_000_036_27015_201702260146_002.log
+L 02/26/2017 - 01:46:30: Log file started (file "logs/L192_168_000_036_27015_201702260146_002.log") (game "/home/csadmin/serverfiles/csgo") (version "6661")
+Server waking up from hibernation
+Writing cfg/banned_user.cfg.
+Writing cfg/banned_ip.cfg.
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_bomb_defused" "200"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_bomb_planted" "200"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_interact_with_hostage" "300"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_killed_enemy_default" "200"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_player_killed_enemy_factor" "0.5"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_bomb_map" "2700"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_hostage_map_t" "2000"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_elimination_hostage_map_ct" "2300"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_loser_bonus" "2400"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "0"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_planted_bomb_but_defused" "200"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_terrorist_win_bomb" "2700"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_defusing_bomb" "2700"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_hostage_rescue" "3000"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_time_running_out_hostage" "2000"
+L 02/26/2017 - 01:46:30: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_freezetime" "5"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_friendlyfire" "1"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_maxrounds" "15"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime" "3"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime_hostage" "2"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_roundtime_defuse" "2.25"
+L 02/26/2017 - 01:46:30: server_cvar: "mp_timelimit" "0"
+exec: couldn't exec gamemode_casual_server.cfg
+Commentary: Could not find commentary data file 'maps/de_mirage_commentary.txt'. 
+L 02/26/2017 - 01:46:31: "NiV<2><STEAM_1:0:53093912><>" connected, address ""
+Client "NiV" connected (99.246.98.92:27005).
+L 02/26/2017 - 01:46:31: World triggered "Round_Start"
+L 02/26/2017 - 01:46:31: "NiV<2><STEAM_1:0:53093912><>" STEAM USERID validated
+PutClientInServer: no info_player_start on level
+L 02/26/2017 - 01:46:35: "NiV<2><STEAM_1:0:53093912><>" entered the game
+L 02/26/2017 - 01:46:37: "NiV<2><STEAM_1:0:53093912><Unassigned>" triggered "clantag" (value "")
+L 02/26/2017 - 01:46:41: "NiV<2><STEAM_1:0:53093912>" switched from team <Unassigned> to <CT>
+L 02/26/2017 - 01:46:41: World triggered "Game_Commencing"
+L 02/26/2017 - 01:46:41: "Ron<3><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Ron<3><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 02/26/2017 - 01:46:41: "Ron<3><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Perry<4><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Perry<4><BOT>" switched from team <Unassigned> to <CT>
+L 02/26/2017 - 01:46:41: "Perry<4><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Pat<5><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Pat<5><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 02/26/2017 - 01:46:41: "Pat<5><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Dustin<6><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Dustin<6><BOT>" switched from team <Unassigned> to <CT>
+L 02/26/2017 - 01:46:41: "Dustin<6><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Irving<7><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Irving<7><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 02/26/2017 - 01:46:41: "Irving<7><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Steve<8><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Steve<8><BOT>" switched from team <Unassigned> to <CT>
+L 02/26/2017 - 01:46:41: "Steve<8><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Yahn<9><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Yahn<9><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 02/26/2017 - 01:46:41: "Yahn<9><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Gary<10><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Gary<10><BOT>" switched from team <Unassigned> to <CT>
+L 02/26/2017 - 01:46:41: "Gary<10><BOT><>" entered the game
+L 02/26/2017 - 01:46:41: "Scott<11><BOT><>" connected, address ""
+L 02/26/2017 - 01:46:41: "Scott<11><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 02/26/2017 - 01:46:41: "Scott<11><BOT><>" entered the game
+L 02/26/2017 - 01:46:42: "Ron<3><BOT><TERRORIST>" purchased "ump45"
+L 02/26/2017 - 01:46:42: "Ron<3><BOT><TERRORIST>" purchased "hegrenade"
+L 02/26/2017 - 01:46:42: "Perry<4><BOT><CT>" purchased "mp7"
+L 02/26/2017 - 01:46:42: "Perry<4><BOT><CT>" purchased "deagle"
+L 02/26/2017 - 01:46:42: "Pat<5><BOT><TERRORIST>" purchased "p90"
+L 02/26/2017 - 01:46:42: "Dustin<6><BOT><CT>" purchased "famas"
+L 02/26/2017 - 01:46:42: "Irving<7><BOT><TERRORIST>" purchased "nova"
+L 02/26/2017 - 01:46:42: "Irving<7><BOT><TERRORIST>" purchased "molotov"
+L 02/26/2017 - 01:46:42: "Steve<8><BOT><CT>" purchased "mp7"
+L 02/26/2017 - 01:46:42: "Steve<8><BOT><CT>" purchased "deagle"
+L 02/26/2017 - 01:46:42: "Yahn<9><BOT><TERRORIST>" purchased "ak47"
+L 02/26/2017 - 01:46:42: "Yahn<9><BOT><TERRORIST>" purchased "hegrenade"
+L 02/26/2017 - 01:46:42: "Gary<10><BOT><CT>" purchased "m249"
+L 02/26/2017 - 01:46:42: "Scott<11><BOT><TERRORIST>" purchased "galilar"
+L 02/26/2017 - 01:46:42: "Scott<11><BOT><TERRORIST>" purchased "hegrenade"
+L 02/26/2017 - 01:46:42: World triggered "Match_Start" on "de_mirage"
+L 02/26/2017 - 01:46:42: "NiV<2><STEAM_1:0:53093912><CT>" triggered "clantag" (value "")
+L 02/26/2017 - 01:46:42: "Ron<3><BOT><TERRORIST>" purchased "nova"
+L 02/26/2017 - 01:46:42: "Ron<3><BOT><TERRORIST>" purchased "deagle"
+L 02/26/2017 - 01:46:42: "Pat<5><BOT><TERRORIST>" purchased "m249"
+L 02/26/2017 - 01:46:42: "Irving<7><BOT><TERRORIST>" purchased "sg556"
+L 02/26/2017 - 01:46:42: "Yahn<9><BOT><TERRORIST>" purchased "ump45"
+L 02/26/2017 - 01:46:42: "Perry<4><BOT><CT>" purchased "ssg08"
+L 02/26/2017 - 01:46:42: "Perry<4><BOT><CT>" purchased "deagle"
+L 02/26/2017 - 01:46:42: "Perry<4><BOT><CT>" purchased "smokegrenade"
+L 02/26/2017 - 01:46:42: "Dustin<6><BOT><CT>" purchased "ump45"
+L 02/26/2017 - 01:46:42: "Dustin<6><BOT><CT>" purchased "decoy"
+L 02/26/2017 - 01:46:42: "Steve<8><BOT><CT>" purchased "xm1014"
+L 02/26/2017 - 01:46:42: "Gary<10><BOT><CT>" purchased "famas"
+L 02/26/2017 - 01:46:42: "Gary<10><BOT><CT>" purchased "hegrenade"
+L 02/26/2017 - 01:46:42: "Scott<11><BOT><TERRORIST>" purchased "galilar"
+L 02/26/2017 - 01:46:44: World triggered "Round_Start"
+L 02/26/2017 - 01:46:44: "NiV<2><STEAM_1:0:53093912><CT>" disconnected (reason "Disconnect")
+L 02/26/2017 - 01:46:44: "NiV<2><STEAM_1:0:53093912>" switched from team <CT> to <Unassigned>
+Dropped NiV from server: Disconnect
+L 02/26/2017 - 01:46:44: "Ron<3><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:44: "Ron<3><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 02/26/2017 - 01:46:44: "Pat<5><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:44: "Pat<5><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 02/26/2017 - 01:46:44: "Perry<4><BOT><CT>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:44: "Perry<4><BOT>" switched from team <CT> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Irving<7><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Irving<7><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Dustin<6><BOT><CT>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Dustin<6><BOT>" switched from team <CT> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Yahn<9><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Yahn<9><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Steve<8><BOT><CT>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Steve<8><BOT>" switched from team <CT> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Scott<11><BOT><TERRORIST>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Scott<11><BOT>" switched from team <TERRORIST> to <Unassigned>
+L 02/26/2017 - 01:46:45: "Gary<10><BOT><CT>" disconnected (reason "Kicked by Console")
+L 02/26/2017 - 01:46:45: "Gary<10><BOT>" switched from team <CT> to <Unassigned>
+Game will not start until both teams have players.
+-> Reservation cookie 0:  reason reserved(yes), clients(no), reservationexpires(0.00)
+Server is hibernating
+quit
+L 02/26/2017 - 01:52:19: server_message: "quit"
+L 02/26/2017 - 01:52:19: Log file closed
+L 02/26/2017 - 01:52:19: server_message: "restart"
+Shutdown function NET_Shutdown() not in list!!!
+File /home/csadmin/serverfiles/csgo/pak01_048.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_048.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_000.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_000.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_004.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_004.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_001.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_001.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_024.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_024.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_029.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_029.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_054.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_054.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_073.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_073.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_003.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_003.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_025.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_025.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_002.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_002.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_055.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_055.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_045.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_045.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_042.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_042.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_032.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_032.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_041.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_041.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_022.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_022.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_036.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_036.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_050.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_050.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_051.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_051.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_043.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_043.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_040.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_040.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_033.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_033.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_053.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_053.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_064.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_064.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_061.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_061.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_005.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_005.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_077.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_077.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_006.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_006.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_035.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_035.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_047.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_047.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_076.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_076.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_068.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_068.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_056.vpk was never closed
+File /home/csadmin/serverfiles/csgo/pak01_056.vpk was never closed
+Sun Feb 26 01:52:19 EST 2017: Server Quit

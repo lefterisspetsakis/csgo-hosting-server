@@ -1,0 +1,110 @@
+LinuxGSM test alert, how you read?
+
+Distro Details
+=================================
+Distro: Ubuntu 16.04.1 LTS
+Arch: x86_64
+Kernel: 4.4.0-31-generic
+Hostname: CSGO2
+tmux: tmux 2.1
+GLIBC: 2.23
+
+Performance
+=================================
+Uptime: 0d, 1h, 46m
+Avg Load: 0.13, 0.52, 0.42
+
+Mem: total  used  free
+Physical: 7.8G 1.1G 5.0G
+Swap: 8.0G 0B 8.0G
+
+Storage
+=================================
+Filesystem: /dev/sda1
+Total: 59G
+Used: 16G
+Available: 41G
+Serverfiles: 13G
+
+Counter-Strike: Global Offensive Server Details
+=================================
+Server name: 128_Tick_Deathmatch
+Server IP: 192.168.0.36:27015
+Server password: ********
+RCON password: ********
+Maxplayers: 24
+Game mode: 0
+Tick rate: 128
+Status: ONLINE
+
+csgo-server-128-DM Logs
+=================================
+
+Script log
+===================
+/home/csadmin/log/script/csgo-server-128-DM-script.log
+Feb 25 12:00:42 csgo-server-128-DM: START: PASS: Started 128_Tick_Deathmatch
+Feb 25 12:00:42 csgo-server-128-DM: START: PASS: command_start.sh exiting with code: 0
+Feb 25 12:00:45 csgo-server-128-DM: ALERT: INFO: Sending test alert
+Feb 25 12:00:45 csgo-server-128-DM: ALERT: INFO: Sending alert: nimrodvanir97@gmail.com
+
+
+Console log
+====================
+/home/csadmin/log/console/csgo-server-128-DM-console.log
+L 02/25/2017 - 12:00:44: server_cvar: "cash_team_terrorist_win_bomb" "2700"
+L 02/25/2017 - 12:00:44: server_cvar: "cash_team_win_by_defusing_bomb" "2700"
+L 02/25/2017 - 12:00:44: server_cvar: "cash_team_win_by_hostage_rescue" "3000"
+L 02/25/2017 - 12:00:44: server_cvar: "cash_team_win_by_time_running_out_hostage" "2000"
+L 02/25/2017 - 12:00:44: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_freezetime" "5"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_friendlyfire" "1"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_maxrounds" "15"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_roundtime" "3"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_roundtime_hostage" "2"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_roundtime_defuse" "2.25"
+L 02/25/2017 - 12:00:44: server_cvar: "mp_timelimit" "0"
+Stopping 0 worker threads
+Starting 1 worker threads
+1 threads. 770,464 ticks
+exec: couldn't exec gamemode_casual_server.cfg
+PrecacheScriptSound 'Player.DamageHelmetOtherFar' failed, no such sound script entry
+Commentary: Could not find commentary data file 'maps/de_mirage_commentary.txt'. 
+Initializing Steam libraries for secure Internet server
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 730
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Setting breakpad minidump AppID = 740
+Logging into Steam gameserver account with logon token 'C16CB8F8xxxxxxxxxxxxxxxxxxxxxxxx'
+
+
+Server log
+===================
+/home/csadmin/serverfiles/csgo/logs
+L 02/25/2017 - 11:42:05: "Dean<4><BOT><>" disconnected (reason "Server shutting down")
+L 02/25/2017 - 11:42:05: "Greg<3><BOT><>" disconnected (reason "Server shutting down")
+L 02/25/2017 - 11:42:05: "NiV<2><STEAM_1:0:53093912><>" disconnected (reason "Server shutting down")
+L 02/25/2017 - 11:42:05: server_message: "quit"
+L 02/25/2017 - 11:42:05: Log file closed
+L 02/25/2017 - 11:54:32: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_freezetime" "5"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_friendlyfire" "1"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_maxrounds" "15"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_roundtime" "3"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_roundtime_hostage" "2"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_roundtime_defuse" "2.25"
+L 02/25/2017 - 11:54:32: server_cvar: "mp_timelimit" "0"
+L 02/25/2017 - 11:55:11: server_message: "quit"
+L 02/25/2017 - 11:55:11: Log file closed
+L 02/25/2017 - 11:14:17: server_cvar: "cash_team_win_by_time_running_out_bomb" "2700"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_freezetime" "5"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_friendlyfire" "1"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_maxrounds" "15"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_roundtime" "3"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_roundtime_hostage" "2"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_roundtime_defuse" "2.25"
+L 02/25/2017 - 11:14:17: server_cvar: "mp_timelimit" "0"
+L 02/25/2017 - 11:15:31: server_message: "quit"
+L 02/25/2017 - 11:15:31: Log file closed
+

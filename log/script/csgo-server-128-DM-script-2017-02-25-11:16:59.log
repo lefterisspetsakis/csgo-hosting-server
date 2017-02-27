@@ -1,0 +1,12 @@
+Feb 25 11:14:16 csgo-server-128-DM: START: PASS: Started LinuxGSM
+Feb 25 11:14:16 csgo-server-128-DM: START: PASS: command_start.sh exiting with code: 0
+Feb 25 11:14:38 csgo-server-128-DM: DETAILS: PASS: command_details.sh exiting with code: 0
+Feb 25 11:15:31 csgo-server-128-DM: STOP: INFO: Graceful: sending "quit"
+Feb 25 11:15:32 csgo-server-128-DM: STOP: PASS: Graceful: sending "quit": OK: 2 seconds
+Feb 25 11:15:33 csgo-server-128-DM: STOP: INFO: tmux kill-session: LinuxGSM
+Feb 25 11:15:35 csgo-server-128-DM: STOP: PASS: Stopped LinuxGSM
+Feb 25 11:15:35 csgo-server-128-DM: STOP: PASS: command_stop.sh exiting with code: 0
+Feb 25 11:17:01 csgo-server-128-DM: CHECK: INFO: Using anonymous Steam login
+Feb 25 11:17:03 csgo-server-128-DM: FIX: INFO: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 11:17:05 csgo-server-128-DM: FIX: PASS: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 11:17:05 csgo-server-128-DM: START: INFO: Rotating log files

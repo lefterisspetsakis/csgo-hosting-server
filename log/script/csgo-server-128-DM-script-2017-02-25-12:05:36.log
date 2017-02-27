@@ -1,0 +1,16 @@
+Feb 25 12:00:42 csgo-server-128-DM: START: PASS: Started 128_Tick_Deathmatch
+Feb 25 12:00:42 csgo-server-128-DM: START: PASS: command_start.sh exiting with code: 0
+Feb 25 12:00:45 csgo-server-128-DM: ALERT: INFO: Sending test alert
+Feb 25 12:00:45 csgo-server-128-DM: ALERT: INFO: Sending alert: nimrodvanir97@gmail.com
+Feb 25 12:00:46 csgo-server-128-DM: ALERT: PASS: Sending alert: nimrodvanir97@gmail.com
+Feb 25 12:00:47 csgo-server-128-DM: ALERT: WARN: Pushbullet alerts not enabled
+Feb 25 12:00:47 csgo-server-128-DM: ALERT: WARN: command_test_alert.sh exiting with code: 3
+Feb 25 12:01:17 csgo-server-128-DM: STOP: INFO: Graceful: sending "quit"
+Feb 25 12:01:18 csgo-server-128-DM: STOP: PASS: Graceful: sending "quit": OK: 2 seconds
+Feb 25 12:01:19 csgo-server-128-DM: STOP: INFO: tmux kill-session: 128_Tick_Deathmatch
+Feb 25 12:01:21 csgo-server-128-DM: STOP: PASS: Stopped 128_Tick_Deathmatch
+Feb 25 12:01:21 csgo-server-128-DM: STOP: PASS: command_stop.sh exiting with code: 0
+Feb 25 12:05:38 csgo-server-128-DM: CHECK: INFO: Using anonymous Steam login
+Feb 25 12:05:40 csgo-server-128-DM: FIX: INFO: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 12:05:42 csgo-server-128-DM: FIX: PASS: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 12:05:42 csgo-server-128-DM: START: INFO: Rotating log files

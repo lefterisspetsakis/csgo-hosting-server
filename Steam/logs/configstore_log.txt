@@ -1,0 +1,104 @@
+
+
+[2017-02-25 01:20:10] Failed to read store 'install' from '/home/csadmin/Steam/config/config.vdf.tmp'
+[2017-02-25 01:20:10] Failed to read store 'install' from '/home/csadmin/Steam/config/config.vdf.tmp'
+[2017-02-25 01:20:10] Failed to read store 'install' from '/home/csadmin/Steam/config/config.vdf.tmp'
+[2017-02-25 01:20:10] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:20:11] Failed to read store 'userlocal' from '/home/csadmin/Steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2017-02-25 01:20:12] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:20:15] Roaming config - failed to load write-aside store from '/home/csadmin/Steam/userdata/anonymous/config/sharedconfig.vdf'
+[2017-02-25 01:20:15] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:20:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:21:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:21:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:22:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:22:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:23:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:23:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:24:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:24:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:25:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:25:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:26:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:26:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:27:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:27:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:28:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:28:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:29:16] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:29:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:30:17] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:30:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:31:17] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:31:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:32:17] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:32:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:33:17] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 01:33:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 01:46:37] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 01:46:39] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 02:16:39] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 10:15:41] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 10:15:43] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 10:40:13] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 10:40:15] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 10:43:48] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 10:43:52] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 11:13:52] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 11:14:18] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 11:14:20] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 11:17:10] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 11:17:11] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 11:27:59] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 11:28:00] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 11:41:05] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 11:41:06] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 11:54:33] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 11:54:35] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 12:00:45] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 12:00:47] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-25 12:05:45] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-25 12:05:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+[2017-02-25 12:35:46] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-26 00:48:57] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-26 00:49:01] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-26 00:58:26] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-26 00:58:28] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-26 01:30:33] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-26 01:30:34] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-26 01:46:21] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-26 01:46:22] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'
+
+
+[2017-02-26 01:52:33] Loaded store 'install' from '/home/csadmin/Steam/config/config.vdf' successfully
+[2017-02-26 01:52:35] Flushed store 'install' to '/home/csadmin/Steam/config/config.vdf'

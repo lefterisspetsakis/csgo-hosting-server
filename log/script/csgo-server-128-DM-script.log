@@ -1,0 +1,7 @@
+Feb 26 01:52:31 csgo-server-128-DM: START: PASS: Started 128_Tick_Deathmatch
+Feb 26 01:52:31 csgo-server-128-DM: START: PASS: command_start.sh exiting with code: 0
+Feb 26 01:52:55 csgo-server-128-DM: STOP: INFO: Graceful: sending "quit"
+Feb 26 01:52:56 csgo-server-128-DM: STOP: PASS: Graceful: sending "quit": OK: 2 seconds
+Feb 26 01:52:57 csgo-server-128-DM: STOP: INFO: tmux kill-session: 128_Tick_Deathmatch
+Feb 26 01:52:59 csgo-server-128-DM: STOP: PASS: Stopped 128_Tick_Deathmatch
+Feb 26 01:52:59 csgo-server-128-DM: STOP: PASS: command_stop.sh exiting with code: 0

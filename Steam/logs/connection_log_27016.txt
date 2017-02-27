@@ -1,0 +1,10 @@
+
+
+[2017-02-25 11:14:18] Log session started
+[2017-02-25 11:14:18] [0,0] SetSteamID( [G:1:0] )
+[2017-02-25 11:14:18] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.46:27020, UDP)
+[2017-02-25 11:14:19] [1,2] ConnectionCompleted() (162.254.193.6:27020, UDP)
+[2017-02-25 11:14:19] [1,2] RecvMsgClientLogOnResponse() : [G:1:1020835] 'OK'
+[2017-02-25 11:15:31] [3,2] LogOff()
+[2017-02-25 11:15:31] [2,2] AsyncDisconnect()
+[2017-02-25 11:15:31] [2,2] Log session ended

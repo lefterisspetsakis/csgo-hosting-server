@@ -1,0 +1,12 @@
+Feb 25 11:17:06 csgo-server-128-DM: START: PASS: Started 128_Tick_Deathmatch
+Feb 25 11:17:06 csgo-server-128-DM: START: PASS: command_start.sh exiting with code: 0
+Feb 25 11:17:12 csgo-server-128-DM: DETAILS: PASS: command_details.sh exiting with code: 0
+Feb 25 11:26:52 csgo-server-128-DM: STOP: INFO: Graceful: sending "quit"
+Feb 25 11:26:53 csgo-server-128-DM: STOP: PASS: Graceful: sending "quit": OK: 2 seconds
+Feb 25 11:26:54 csgo-server-128-DM: STOP: INFO: tmux kill-session: 128_Tick_Deathmatch
+Feb 25 11:26:56 csgo-server-128-DM: STOP: PASS: Stopped 128_Tick_Deathmatch
+Feb 25 11:26:56 csgo-server-128-DM: STOP: PASS: command_stop.sh exiting with code: 0
+Feb 25 11:27:51 csgo-server-128-DM: CHECK: INFO: Using anonymous Steam login
+Feb 25 11:27:54 csgo-server-128-DM: FIX: INFO: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 11:27:55 csgo-server-128-DM: FIX: PASS: Applying workshop map fix: Counter-Strike: Global Offensive
+Feb 25 11:27:55 csgo-server-128-DM: START: INFO: Rotating log files

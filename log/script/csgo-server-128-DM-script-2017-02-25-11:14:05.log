@@ -1,0 +1,8 @@
+Feb 25 11:13:53 csgo-server-128-DM: DETAILS: PASS: command_details.sh exiting with code: 0
+Feb 25 11:14:08 csgo-server-128-DM: CHECK: WARN: Configuration file missing!
+Feb 25 11:14:08 csgo-server-128-DM: CHECK: WARN: /home/csadmin/serverfiles/csgo/cfg/csgo-server-128-DM.cfg
+Feb 25 11:14:11 csgo-server-128-DM: INSTALL: INFO: copying csgo-server-128-DM.cfg config file.
+Feb 25 11:14:12 csgo-server-128-DM: INSTALL: INFO: changing hostname.
+Feb 25 11:14:13 csgo-server-128-DM: INSTALL: INFO: changing rcon/admin password.
+Feb 25 11:14:14 csgo-server-128-DM: CHECK: INFO: Using anonymous Steam login
+Feb 25 11:14:15 csgo-server-128-DM: START: INFO: Rotating log files

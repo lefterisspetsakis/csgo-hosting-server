@@ -1,0 +1,128 @@
+
+
+[2017-02-25 01:20:10] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+[2017-02-25 01:20:14] Loaded 0 apps from install folder "/home/csadmin/serverfiles/steamapps\appmanifest_*.acf".
+[2017-02-25 01:20:15] AppID 740 state changed : Update Required,
+[2017-02-25 01:20:15] Scheduler update appID 740: Priority First, legacy=no, restore="", timeSinceLastPlayed=1488003615, appDisableSecondsRemaining=0
+[2017-02-25 01:20:15] Scheduler update appID 740: Priority First, legacy=no, restore="", timeSinceLastPlayed=1488003615, appDisableSecondsRemaining=0
+[2017-02-25 01:20:15] AppID 740 state changed : Update Required,Update Running,
+[2017-02-25 01:20:15] AppID 740 update changed : Running,
+[2017-02-25 01:20:15] AppID 740 update changed : Running,Reconfiguring,
+[2017-02-25 01:20:15] Got 20 download sources via "/serverlist/20/20/" from 207.35.48.42:80
+[2017-02-25 01:20:15] Created download interface of type 'CS' (1) to host valve176.steampipe.steamcontent.com (valve176.steamcontent.com)
+[2017-02-25 01:20:15] Created download interface of type 'CS' (1) to host valve177.steampipe.steamcontent.com (valve177.steamcontent.com)
+[2017-02-25 01:20:15] Created download interface of type 'CS' (1) to host valve179.steampipe.steamcontent.com (valve179.steamcontent.com)
+[2017-02-25 01:20:15] HTTP (CS,176) - valve176.steampipe.steamcontent.com (valve176.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:20:15] HTTP (CS,177) - valve177.steampipe.steamcontent.com (valve177.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:20:15] HTTP (CS,176) - valve176.steampipe.steamcontent.com (valve176.steamcontent.com): /depot/731/manifest/8012081869647305334/5?l=11&e=1488608415&h=012b17777cbcfbfb1d48522685b54b5aa5eea579 - received 200 (OK) HTTP response
+[2017-02-25 01:20:16] HTTP (CS,177) - valve177.steampipe.steamcontent.com (valve177.steamcontent.com): /depot/740/manifest/7523640127342642513/5?l=11&e=1488608415&h=b527fedbde70380999bb8d93020394b7ae4eb663 - received 200 (OK) HTTP response
+[2017-02-25 01:20:16] AppID 740 update changed : Running,
+[2017-02-25 01:20:16] AppID 740 update changed : Running,Validating,
+[2017-02-25 01:20:16] Validating files (new target,full) ...
+[2017-02-25 01:20:16] File validation finished: 2702 files (13895367261 bytes) total, 2702 files (13895367261 bytes) mismatched (168 msec).
+[2017-02-25 01:20:16] AppID 740 update changed : Running,
+[2017-02-25 01:20:16] AppID 740 update changed : Running,Preallocating,
+[2017-02-25 01:20:16] AppID 740 update changed : Running,
+[2017-02-25 01:20:16] AppID 740 update started : download 0/6540341616, store 0/0, reuse 0/0, stage 0/13895367261
+[2017-02-25 01:20:16] AppID 740 state changed : Update Required,Update Running,Update Started,
+[2017-02-25 01:20:16] AppID 740 update changed : Running,Downloading,
+[2017-02-25 01:20:16] AppID 740 update changed : Running,Downloading,Staging,
+[2017-02-25 01:20:17] HTTP (CS,177) - valve177.steampipe.steamcontent.com (valve177.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:20:17] HTTP (CS,179) - valve179.steampipe.steamcontent.com (valve179.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:20:29] Increasing target number of download connections to 4 (rate was 0.000, now 66.402)
+[2017-02-25 01:20:29] Created download interface of type 'CS' (1) to host valve178.steampipe.steamcontent.com (valve178.steamcontent.com)
+[2017-02-25 01:20:29] HTTP (CS,178) - valve178.steampipe.steamcontent.com (valve178.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:21:18] HTTP (CS,176) - valve176.steampipe.steamcontent.com (valve176.steamcontent.com): Received 0 (Invalid) HTTP response for depot 731
+[2017-02-25 01:21:18] Created download interface of type 'CS' (1) to host valve617.steampipe.steamcontent.com (valve617.steamcontent.com)
+[2017-02-25 01:21:18] HTTP (CS,176) - valve176.steampipe.steamcontent.com (valve176.steamcontent.com): Closing connection
+[2017-02-25 01:21:18] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:21:30] Current download rate: 78.982 Mbps
+[2017-02-25 01:22:31] Current download rate: 50.087 Mbps
+[2017-02-25 01:23:02] HTTP (CS,178) - valve178.steampipe.steamcontent.com (valve178.steamcontent.com): Received 0 (Invalid) HTTP response for depot 731
+[2017-02-25 01:23:02] Created download interface of type 'CS' (1) to host valve615.steampipe.steamcontent.com (valve615.steamcontent.com)
+[2017-02-25 01:23:02] HTTP (CS,178) - valve178.steampipe.steamcontent.com (valve178.steamcontent.com): Closing connection
+[2017-02-25 01:23:02] HTTP (CS,615) - valve615.steampipe.steamcontent.com (valve615.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:23:32] Current download rate: 28.465 Mbps
+[2017-02-25 01:24:24] Increasing target number of download connections to 5 (rate was 66.402, now 81.107)
+[2017-02-25 01:24:24] Created download interface of type 'CS' (1) to host valve611.steampipe.steamcontent.com (valve611.steamcontent.com)
+[2017-02-25 01:24:25] HTTP (CS,611) - valve611.steampipe.steamcontent.com (valve611.steamcontent.com): AuthenticateDepotID (731) - Success!
+[2017-02-25 01:24:37] Current download rate: 60.250 Mbps
+[2017-02-25 01:25:38] Current download rate: 40.396 Mbps
+[2017-02-25 01:26:39] Current download rate: 68.676 Mbps
+[2017-02-25 01:27:40] Current download rate: 55.108 Mbps
+[2017-02-25 01:28:41] Current download rate: 63.755 Mbps
+[2017-02-25 01:29:42] Current download rate: 80.617 Mbps
+[2017-02-25 01:30:43] Current download rate: 74.546 Mbps
+[2017-02-25 01:31:44] Current download rate: 90.788 Mbps
+[2017-02-25 01:32:45] Current download rate: 81.838 Mbps
+[2017-02-25 01:33:34] HTTP (CS,177) - valve177.steampipe.steamcontent.com (valve177.steamcontent.com): Received 0 (Invalid) HTTP response for depot 731
+[2017-02-25 01:33:34] Created download interface of type 'CS' (1) to host valve616.steampipe.steamcontent.com (valve616.steamcontent.com)
+[2017-02-25 01:33:34] HTTP (CS,177) - valve177.steampipe.steamcontent.com (valve177.steamcontent.com): Closing connection
+[2017-02-25 01:33:36] HTTP (CS,179) - valve179.steampipe.steamcontent.com (valve179.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:33:36] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:33:36] HTTP (CS,611) - valve611.steampipe.steamcontent.com (valve611.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:33:36] HTTP (CS,615) - valve615.steampipe.steamcontent.com (valve615.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:33:36] HTTP (CS,616) - valve616.steampipe.steamcontent.com (valve616.steamcontent.com): AuthenticateDepotID (740) - Success!
+[2017-02-25 01:33:46] Current download rate: 48.313 Mbps
+[2017-02-25 01:33:56] AppID 740 update changed : Running,
+[2017-02-25 01:33:56] AppID 740 update changed : Running,Committing,
+[2017-02-25 01:33:56] AppID 740 file commit : 2822 updated, 0 moved, 0 deleted
+[2017-02-25 01:33:56] AppID 740 state changed : Fully Installed,Update Running,
+[2017-02-25 01:33:56] Finished update AppID 740, mounted depots (BuildID 1637362): 731 (8012081869647305334),740 (7523640127342642513),
+[2017-02-25 01:33:56] AppID 740 update changed : Running,
+[2017-02-25 01:33:56] AppID 740 update changed : None
+[2017-02-25 01:33:56] AppID 740 state changed : Fully Installed,
+[2017-02-25 01:33:56] AppID 740 scheduler finished : removed from schedule
+[2017-02-25 01:33:56] HTTP (CS,616) - valve616.steampipe.steamcontent.com (valve616.steamcontent.com): Closing connection
+[2017-02-25 01:33:56] HTTP (CS,611) - valve611.steampipe.steamcontent.com (valve611.steamcontent.com): Closing connection
+[2017-02-25 01:33:56] HTTP (CS,615) - valve615.steampipe.steamcontent.com (valve615.steamcontent.com): Closing connection
+[2017-02-25 01:33:56] HTTP (CS,617) - valve617.steampipe.steamcontent.com (valve617.steamcontent.com): Closing connection
+[2017-02-25 01:33:56] HTTP (CS,179) - valve179.steampipe.steamcontent.com (valve179.steamcontent.com): Closing connection
+
+
+[2017-02-25 01:46:37] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 10:15:41] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 10:40:13] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 10:43:48] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 11:14:18] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 11:17:10] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 11:27:59] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 11:41:05] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 11:54:33] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 12:00:45] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-25 12:05:45] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-26 00:48:57] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-26 00:58:26] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-26 01:30:33] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-26 01:46:21] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
+
+
+[2017-02-26 01:52:33] Loaded 0 apps from install folder "/home/csadmin/Steam/steamapps\appmanifest_*.acf".
