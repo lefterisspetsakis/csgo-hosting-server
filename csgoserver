@@ -30,9 +30,9 @@ version="170219"
 # Classic Competitive			0			1
 # Demolition				1			1
 # Deathmatch				1			2
-gametype="0"
-gamemode="0"
-defaultmap="de_mirage"
+gametype="1"
+gamemode="2"
+defaultmap="de_dust2"
 mapgroup="mg_active"
 maxplayers="24"
 tickrate="128"
